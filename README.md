@@ -1,5 +1,7 @@
 # AR-Locator-App
 
+<img src="https://img.shields.io/badge/Made By-Flutter%20-yellow.svg">
+
 This project is for a location based AR app. Change wherever do you want...
 
 # Plugins/Dependencies Used
