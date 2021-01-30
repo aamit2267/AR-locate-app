@@ -1,6 +1,19 @@
-# firatar
+# AR-Locator-App
 
-A new Flutter project.
+This project is for a location based AR app. Change wherever do you want...
+
+# Plugins/Dependencies Used
+- [arkit_plugin](https://pub.dev/packages/arkit_plugin)
+- [geolocator](https://pub.dev/packages/geolocator)
+- [flutter_tts](https://pub.dev/packages/flutter_tts)
+- [flutter_compass](https://pub.dev/packages/flutter_compass)
+- [video_player](https://pub.dev/packages/video_player)
+
+# Installing Dependencies
+Its very simple to install dependecies:
+```
+flutter pub get
+```
 
 ## Getting Started
 
